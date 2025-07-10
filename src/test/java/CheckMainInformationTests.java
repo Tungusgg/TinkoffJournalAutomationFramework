@@ -18,7 +18,7 @@ public class CheckMainInformationTests extends Steps {
                 .checkTextInHeaderExist("Сообщество")
                 .checkTextInSectionsPanel("Расчеты")
                 .checkTextInSectionsPanel("Закладки")
-                .checkTextInSectionsPanel("Письма")
+                .checkTextInSectionsPanel("Письма2")
                 .checkTextInSectionsPanel("Оставайтесь")
                 .clickButtonInPanel("Закладки")
                 .checkAndFillField("Почта или телефон", "ggWP!@#");
